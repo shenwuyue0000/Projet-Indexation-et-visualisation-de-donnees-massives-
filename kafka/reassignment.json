@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "partitions": [
+    {
+      "topic": "movies_topic",
+      "partition": 0,
+      "replicas": [0]
+    }
+  ]
+}
+
