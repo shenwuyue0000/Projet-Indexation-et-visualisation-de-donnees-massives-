@@ -29,6 +29,6 @@ De plus, **Spark** est utilisé pour le **traitement distribué des données**, 
 ---
 
 ## 👥 Professeure 
-- **laure bourgeois**
+- **Mme. Laure Bourgeois**
 
 
