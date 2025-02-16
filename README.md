@@ -18,3 +18,17 @@ De plus, **Spark** est utilisé pour le **traitement distribué des données**, 
 - **⚙️ Traitement des données** : Logstash, Spark  
 - **🔍 Indexation des données** : Elasticsearch  
 - **📊 Visualisation des données** : Kibana  
+
+---
+
+## 👥 Membres du groupe  
+
+- **Songyang WANG** - *22408117*  
+- **Xuming MA** - *22403369*  
+
+---
+
+## 👥 Professeure 
+- **laure bourgeois**
+
+
